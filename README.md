@@ -69,7 +69,7 @@
 
 <h2 align="left">🔗 Entre em contato comigo:</h2>
 <div align="left"> 
-<a href="https://www.linkedin.com/in/j%C3%BAlio-maia-68baa7277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/jefferson-santana-285731279/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
  <br>
