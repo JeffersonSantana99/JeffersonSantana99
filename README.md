@@ -5,8 +5,8 @@
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JeffersonSantana99&show_icons=true&count_private=true&hide_border=true&title_color=A020F0&icon_color=EAF70CFF&text_color=c9d1d9&bg_color=0d1117" alt="Jefferson Santana github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonSantana99&layout=compact&hide_border=true&title_color=EAF70CFF&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JeffersonSantana99&show_icons=true&count_private=true&hide_border=true&title_color=A020F0&icon_color=EAF70CFF&text_color=EAF70CFFg_color=0d1117" alt="Jefferson Santana github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonSantana99&layout=compact&hide_border=true&title_color=EAF70CFF&text_color=EAF70CFF&bg_color=0d1117" />
 </div>
 
 
