@@ -14,9 +14,9 @@
 
 ##  Fatos sobre mim:
 - 🔭 Sou graduando em Sistemas para Internet na Unipê (João Pessoa)
-- 🎲 Estudos atualmente voltados para PHP, Python e JS.
-- 👯 Procuro colaborar em projetos e pesquisas de Inteligência Artificial.
-- 💭 Fale comigo sobre Dados, Tecnologia, backand e Jogos.
+- 🎲 Estudos atualmente voltados para PHP e MySQL.
+- 👯 Procuro colaborar em projetos.
+- 💭 Fale comigo sobre Dados, Tecnologia, backend e Jogos.
 - 📫 Fale comigo em: **jefferson.snt.oliveira@gmail.com**
 - ⚡ Curiosidade sobre mim: **Gosto de jogos fps e leio livros como hobbie**
   
@@ -33,14 +33,8 @@
 
 ### 🎲 Ciência, Engenharia e Visualização de Dados:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
 
 ### 📚 Tenho conhecimento básico em:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
