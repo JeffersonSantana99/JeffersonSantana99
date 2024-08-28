@@ -42,7 +42,6 @@
 
 ### 📚 Tenho conhecimento básico em:
 ![Java](https://img.shields.io/badge/Java-F7DF1E.svg?style=for-the-badge&logo=JAVA&logoColor=black)
-![C#](https://img.shields.io/badge/C#-E34F26.svg?style=for-the-badge&logo=C#&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/PYTHON-1572B6.svg?style=for-the-badge&logo=PYTHON&logoColor=white)
 ![RUBY](https://img.shields.io/badge/RUBY-777BB4.svg?style=for-the-badge&logo=RUBY&logoColor=white)
 
