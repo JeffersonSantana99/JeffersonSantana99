@@ -18,7 +18,7 @@
 - 👯 Procuro colaborar em projetos.
 - 💭 Fale comigo sobre Dados, Tecnologia, backend e Jogos.
 - 📫 Fale comigo em: **jefferson.snt.oliveira@gmail.com**
-- ⚡ Curiosidade sobre mim: **Gosto de jogos fps e leio livros como hobbie**
+- ⚡ Curiosidade sobre mim: **Leituras e passeios**
   
 
 ## 🚀 **Linguagens e Ferramentas que domino:**
