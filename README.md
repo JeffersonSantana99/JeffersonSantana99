@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EAF70CFFheight=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=453BF7&random=false&width=435&lines=Ol%C3%A1+mundo.+Me+chamo+Jefferson.;Sou+estudante+de+BackAnd.;Minhas+principais+habilidades%3A;PHP%2C+Python+e+JS.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=453BF7&random=false&width=435&lines=Ol%C3%A1+mundo.+Me+chamo+Jefferson.;Sou+estudante+de+Backend.;Minhas+principais+habilidades%3A;PHP%2C+MySQl+e+JS.)](https://git.io/typing-svg)
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <div align="center">  
@@ -14,7 +14,7 @@
 
 ##  Fatos sobre mim:
 - 🔭 Sou graduando em Sistemas para Internet na Unipê (João Pessoa)
-- 🎲 Estudos atualmente voltados para PHP e MySQL.
+- 🎲 Estudos atualmente voltados para PHP, LARAVEL e MySQL.
 - 👯 Procuro colaborar em projetos.
 - 💭 Fale comigo sobre Dados, Tecnologia, backend e Jogos.
 - 📫 Fale comigo em: **jefferson.snt.oliveira@gmail.com**
