@@ -42,7 +42,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF0000.svg?style=for-the-badge&logo=Laravel&logoColor=white)
 
 ### 📚 Tenho conhecimento básico em:
-![Java](https://img.shields.io/badge/Java-5F9F9F.svg?style=for-the-badge&logo=JAVA&logoColor=red)
+![Java](https://img.shields.io/badge/Java-5F9F9F.svg?style=for-the-badge&logo=Java&logoColor=red)
 ![PYTHON](https://img.shields.io/badge/PYTHON-1572B6.svg?style=for-the-badge&logo=PYTHON&logoColor=white)
 ![RUBY](https://img.shields.io/badge/RUBY-777BB4.svg?style=for-the-badge&logo=RUBY&logoColor=white)
 
